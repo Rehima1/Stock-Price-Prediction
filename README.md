@@ -33,6 +33,7 @@ The model performed well on the validation data, indicating that it generalized 
 
 ### Test Data
 On the test data, the model followed the general trends in Meta stock prices, though there were some deviations during periods of high volatility.
+
 ![image](https://github.com/user-attachments/assets/0b919d8c-83c1-4fcb-b9d4-ff95fe0d36be)
 
 
