@@ -19,6 +19,7 @@ Objective: To predict future stock prices of Meta Inc. based on past trends.
 Features: Date, Close
 
 ## Result
+![image](https://github.com/user-attachments/assets/6853aa5c-e58d-40cd-937b-34dacafff9e7)
 
 ### Training Data
 The model accurately captured the trends in the training data, with predictions closely matching actual Meta stock prices.
@@ -32,6 +33,10 @@ The model performed well on the validation data, indicating that it generalized 
 
 ### Test Data
 On the test data, the model followed the general trends in Meta stock prices, though there were some deviations during periods of high volatility.
+![image](https://github.com/user-attachments/assets/0b919d8c-83c1-4fcb-b9d4-ff95fe0d36be)
+
+
+You can find the [result here](https://github.com/Rehima1/Stock-Price-Prediction/blob/main/StockPricePrediction_Meta.ipynb)
 
 ## Conclusion
 The LSTM-based Apple stock price prediction model shows strong performance in capturing long-term trends but has some limitations in predicting short-term fluctuations, particularly during volatile periods. This suggests the model can be a useful tool for trend-following strategies but might need further refinement for short-term trading applications
