@@ -23,6 +23,7 @@ Features: Date, Close
 
 ### Training Data
 The model accurately captured the trends in the training data, with predictions closely matching actual Meta stock prices.
+
 ![image](https://github.com/user-attachments/assets/4af15b12-87c7-4d3e-9ead-c6378eee9215)
 
 
@@ -35,6 +36,8 @@ The model performed well on the validation data, indicating that it generalized 
 On the test data, the model followed the general trends in Meta stock prices, though there were some deviations during periods of high volatility.
 
 ![image](https://github.com/user-attachments/assets/0b919d8c-83c1-4fcb-b9d4-ff95fe0d36be)
+![image](https://github.com/user-attachments/assets/8417aaa8-4ea2-4cc9-829e-5907ddce7066)
+
 
 
 You can find the [result here](https://github.com/Rehima1/Stock-Price-Prediction/blob/main/StockPricePrediction_Meta.ipynb)
